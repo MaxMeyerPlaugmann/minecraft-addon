@@ -1,0 +1,12 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build/export artifacts
+*.mcaddon
+*.mcpack
+*.zip
+
+# Temporary files
+*.tmp
