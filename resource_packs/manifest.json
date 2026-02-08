@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Eksempel Resource Pack til Minecraft Bedrock 1.21.132",
-    "name": "Example Resource Pack",
-    "uuid": "33333333-3333-3333-3333-333333333333",
+    "description": "Resource pack til Diamond Chicken test",
+    "name": "Diamond Chicken RP",
+    "uuid": "1ff14980-bea6-4721-9337-78d710fd9219",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 132]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "description": "Resource module",
       "type": "resources",
-      "uuid": "44444444-4444-4444-4444-444444444444",
+      "uuid": "5da468ca-eeeb-493b-aad1-3c45216af137",
       "version": [1, 0, 0]
     }
   ]
