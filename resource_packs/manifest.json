@@ -3,16 +3,16 @@
   "header": {
     "description": "Resource pack til Diamond Chicken test",
     "name": "Diamond Chicken RP",
-    "uuid": "1ff14980-bea6-4721-9337-78d710fd9219",
-    "version": [1, 0, 0],
+    "uuid": "cb44ce29-57eb-4446-824c-353360dc7b26",
+    "version": [1, 0, 1],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "description": "Resource module",
       "type": "resources",
-      "uuid": "5da468ca-eeeb-493b-aad1-3c45216af137",
-      "version": [1, 0, 0]
+      "uuid": "895307d8-2c3e-412b-9d9c-29712bfa4080",
+      "version": [1, 0, 1]
     }
   ]
 }

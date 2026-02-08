@@ -3,16 +3,16 @@
   "header": {
     "description": "Test addon: chickens dropper diamanter",
     "name": "Diamond Chicken BP",
-    "uuid": "093c9ff4-0682-42d5-83f3-875442b0b423",
-    "version": [1, 0, 0],
+    "uuid": "2b3fd8c0-6620-4dc4-9f54-f16fd9ec50fc",
+    "version": [1, 0, 1],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "description": "Behavior module",
       "type": "data",
-      "uuid": "7d776ba5-d89a-422c-b180-178c732a4040",
-      "version": [1, 0, 0]
+      "uuid": "f960d3ca-402a-46a8-8e04-86335875d0b6",
+      "version": [1, 0, 1]
     }
   ]
 }
